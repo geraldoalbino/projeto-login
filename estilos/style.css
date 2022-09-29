@@ -3,7 +3,7 @@
 /* 
     Paleta de Cores 
     Verde: #49a09d
-    Lilás: #5f2c82
+    Lilás: #6080aa
 */
 
 * {
@@ -14,7 +14,7 @@
 }
 
 body, html {
-    background-color: #5f2c82;
+    background-color: #6080aa;
     height: 100vh;
     width: 100vw;
 }
@@ -40,7 +40,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/metal.jpg);
+    background: #6080aa url(../imagens/metal.jpg);
     background-size: cover;
     height: 200px;
     background-position: left bottom;
