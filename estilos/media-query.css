@@ -1,12 +1,14 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
+    /* Configurações para Tablet */
     body, html {
         background-image: linear-gradient(to top, #49a09d, #6080dd);
     }
 
     section#login {
         width: 80vw;
+        height: 280px;
     }
 
     section#login > div#imagem {
@@ -28,6 +30,7 @@
     }
     section#login {
         width: 900px;
+        height: 300px;
     }
 
     section#login > div#imagem {
@@ -45,6 +48,6 @@
         font-size: 2em;
     }
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 }
